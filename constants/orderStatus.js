@@ -1,0 +1,2 @@
+// orderStatus.js
+module.exports = {};

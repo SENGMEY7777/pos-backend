@@ -1,0 +1,2 @@
+// generateReceipt.js
+module.exports = {};

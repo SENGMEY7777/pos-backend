@@ -1,0 +1,2 @@
+// calculateDiscount.js
+module.exports = {};

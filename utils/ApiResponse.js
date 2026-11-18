@@ -1,0 +1,2 @@
+// ApiResponse.js
+module.exports = {};

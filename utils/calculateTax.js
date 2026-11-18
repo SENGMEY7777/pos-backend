@@ -1,0 +1,2 @@
+// calculateTax.js
+module.exports = {};

@@ -1,0 +1,2 @@
+// generateToken.js
+module.exports = {};
