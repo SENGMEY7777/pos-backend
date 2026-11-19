@@ -1,0 +1,1 @@
+// This project uses routes/admin.routes.js instead.
